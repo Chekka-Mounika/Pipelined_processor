@@ -1,0 +1,47 @@
+1]descending
+Hash of the Processor State = 255541867
+Number of instructions executed = 365
+Number of cycles taken = 475
+Number of wrong branches taken :21
+Number of wrong instructions entered pipeline for wrong branches :42
+Number of haults : 106
+
+
+2]evenorodd
+Hash of the Processor State = -1414219998
+Number of instructions executed = 34
+Number of cycles taken = 45
+Number of wrong branches taken :8
+Number of wrong instructions entered pipeline for wrong branches :16
+Number of haults : 7
+
+
+3]fibonacci
+Hash of the Processor State = -1518357572
+Number of instructions executed = 94
+Number of cycles taken = 120
+Number of wrong branches taken :1
+Number of wrong instructions entered pipeline for wrong branches :2
+Number of haults : 22
+
+
+
+4]palindrome
+Hash of the Processor State = 155317940
+Number of instructions executed = 56
+Number of cycles taken = 93
+Number of wrong branches taken :1
+Number of wrong instructions entered pipeline for wrong branches :2
+Number of haults : 33
+
+
+
+5]prime
+Hash of the Processor State = -1414219998
+Number of instructions executed = 34
+Number of cycles taken = 45
+Number of wrong branches taken :8
+Number of wrong instructions entered pipeline for wrong branches :16
+Number of haults : 7
+
+

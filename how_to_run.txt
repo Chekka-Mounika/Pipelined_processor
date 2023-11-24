@@ -1,0 +1,8 @@
+run : 
+ant make-jar
+java -jar <path-to-jar-file> <path-to-config-file> <path-to-stat-file> <path-to-object-file>
+
+//<path-to-jar-file>  :   .jar file in /jars folder
+//<path-to-config-file>  :  congig.xml in /src/Configuration folder 
+//<path-to-stat-file>,<path-to-object-file> :
+               should be given as arguments of addresses in which you want to throw out the output

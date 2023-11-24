@@ -1,0 +1,6 @@
+Hash of the Processor State = -1414219998
+Number of instructions executed = 34
+Number of cycles taken = 45
+Number of wrong branches taken :8
+Number of wrong instructions entered pipeline for wrong branches :16
+Number of haults : 7
