@@ -26,7 +26,7 @@
       - [RegisterWrite.java](#registerwritejava)
       - [Z_BranchControlUnit.java](#z_branchcontrolunitjava)
       - [Z_DataControlUnit.java](#z_datacontrolunitjava)
--[Expected Outputs](#expected_outputs)
+- [Expected Outputs](#expected-outputs)
 
 
 ## Problem Statement
