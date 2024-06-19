@@ -47,6 +47,12 @@ To run the CPU simulator:
 1. Build the JAR file:
    ```bash
    ant make-jar
+2. Execute the JAR file with the following arguments:
+   ```bash
+   java -jar <path-to-jar-file> <path-to-config-file> <path-to-stat-file> <path-to-object-file>
+- <path-to-jar-file>: Path to the generated JAR file in the /jars folder.
+- <path-to-config-file>: Path to the config.xml file located in /src/Configuration.
+- <path-to-stat-file> and <path-to-object-file>: Paths where output statistics and object file results will be saved.
 
 
 ## Code Structure
