@@ -26,6 +26,8 @@
       - [RegisterWrite.java](#registerwritejava)
       - [Z_BranchControlUnit.java](#z_branchcontrolunitjava)
       - [Z_DataControlUnit.java](#z_datacontrolunitjava)
+-[Expected Outputs](#expected_outputs)
+
 
 ## Problem Statement
 
@@ -108,7 +110,17 @@ Control unit for managing data hazards.
 These files collectively define the structure and behavior of the pipelined processor in the CPU simulator, ensuring efficient and accurate execution of instructions.
 
 
+---
 
+## Expected Outputs
+After executing the CPU simulator with the provided inputs, you can expect the following outputs:
+
+- **Hash of the Processor State:** 
+- **Number of instructions executed:** 
+- **Number of cycles taken:** 
+- **Number of wrong branches taken:** 
+- **Number of wrong instructions entered pipeline for wrong branches:** 
+- **Number of halts:** 
 
 
 
